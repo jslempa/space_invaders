@@ -46,8 +46,7 @@ document.addEventListener('keydown', function(event) {
 ## Stretch goals
 
 - The ship that goes across the top of the screen
-- Pause button
-- Restart button
+- Power ups
 - Music
 
 
