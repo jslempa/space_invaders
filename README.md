@@ -12,7 +12,7 @@
 - Player ship
 - Player rockets
 - Barriers x 4
-- Enemies
+- Enemies (3 types wtih different point values)
     - 5 rows
     - 11 columns
 - Enemy rockets  
