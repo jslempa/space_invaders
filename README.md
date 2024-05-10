@@ -1,6 +1,8 @@
 # Space Invaders
 
+![load screen](https://i.imgur.com/mC8wVG9.png)
 
+![alt text](https://i.imgur.com/t8AKogM.png)
 
 ## HTML elements
 
@@ -16,6 +18,14 @@
 - Enemy rockets  
 
 ## JS implementation
+
+**Constants**
+
+**Variables**
+
+**Cached element references**
+
+**Functions**
 
 **Event listeners**
 
